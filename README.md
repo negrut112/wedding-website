@@ -11,7 +11,7 @@
 ## HTML
 
 <p>First step was to establish the framework: header, footer and different sections.</p>
-<p>I will give an example of a location section where it will take part:ceremony, photos and party.</p>
+<p>I will give an example of a location section where it will take part: the ceremony, photos session and the party.</p>
 
 <pre><code>&lt;section class=“locations”&gt;<br>
 &lt;h2&gt;Locations&lt;/h2&gt;<br>
@@ -42,7 +42,7 @@
 
 <p>Examples of styling:</p>
 
-<p>body {<br>
+<pre><code>body {<br>
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png</a>') repeat center;<br>
 font-family: ‘Libre Baskerville’, serif;<br>
 font-size: 1.125rem;<br>
@@ -64,8 +64,10 @@ font-family: ‘Muli’, sans-serif;<br>
 display: table;<br>
 text-align: center;<br>
 font-size: .875rem;<br>
-}</p>
+}</code></pre>
+
 <p>Media queries styling:</p>
+
 <p>@media (min-width: 768px) {</p>
 <p>.cover {<br>
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg</a>') no-repeat center/cover;<br>
