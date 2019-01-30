@@ -76,16 +76,16 @@ background: url(’<a href="https://orange.codeberryschool.com/content/images/pr
 padding: 1.25rem;
 border-radius: 4px;
 width: 50%;
-}</p>
+}
 <p>.text h1 {
 font-size: 7rem;<
-}</p>
+}
 .info {
 display: inline-block;
 width: 30%;
 padding: 1.5rem;
 margin: .5rem;
-<p>}
+}
 .info::after {
 display: none;
 }</code></pre>
