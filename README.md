@@ -10,7 +10,7 @@
 
 ## HTML
 
-<p>First step was to establish the framework: header, footer and different sections.</p>
+<p>First step was to establish the framework containing: header, footer and different sections.</p>
 <p>I will give an example of a location section where it will take part: the ceremony, photos session and the party.</p>
 
 <pre><code>&lt;section class=“locations”&gt;<br>
