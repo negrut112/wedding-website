@@ -2,7 +2,7 @@
 
 <p>A very good method to keep your guests informed during the most spcial day of your life - the big wedding. A simple webpage offering your guest information like: locations, program, gifts, a question &amp; answers section and finnaly the contacts infos.</p>
 
-<p>This website was made in CodeBerry Programming  school during practice with help of the HTML and CSS programming languages, if you want to see a live version acces this page: <a href="https://negrut112.github.io/wedding-website/">https://negrut112.github.io/wedding-website/</a> .<br>
+<p>This website was made in CodeBerry Programming  school during practice with help of the HTML and CSS programming languages, if you want to see a live version acces this page: <a href="https://negrut112.github.io/wedding-website/">https://negrut112.github.io/wedding-website/</a>.<br>
     
 <img src="https://i.imgur.com/ILXmTcU.png">
 
@@ -25,7 +25,6 @@
     &lt;div&gt;Liberty Bastion&lt;/div&gt;
     &lt;div&gt;23 Wisdom Road, Bucharest&lt;/div&gt;
   &lt;/div&gt;
-  
   &lt;div class=&quot;info&quot;&gt;
     &lt;h3&gt;Party&lt;/h3&gt;
     &lt;img src=&quot;https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-party.png&quot; alt=&quot;Party&quot;&gt;
@@ -40,6 +39,7 @@
 <p>Next step was to add some style for almost each element from html, but starting first with a Meyer reset that will remove default styling.I did this adding <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css</a>&quot;&gt;this external link to HTML head tags.</p>
 
 <p>Examples of styling:</p>
+
 <p>body {<br>
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png</a>') repeat center;<br>
 font-family: ‘Libre Baskerville’, serif;<br>
