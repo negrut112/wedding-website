@@ -89,25 +89,4 @@ margin: .5rem;
 <p>}</p>
 <p>.info::after {<br>
 display: none;<br>
-}</p>
-<p>.question-group {<br>
-display: inline-block;<br>
-width: 30%;<br>
-vertical-align: top;<br>
-padding: 1.5rem;<br>
-margin: .5rem;<br>
-}</p>
-<p>.program-wrapper {<br>
-width: 30vw;<br>
-margin: 0 auto;<br>
-}</p>
-<p>.question-group::after {<br>
-display: none;<br>
-}</p>
-<p>.question-group h3 {<br>
-text-align: left;<br>
-}</p>
-<p>footer {<br>
-min-height: 7vh;<br>
-}</p>
-<p>}</code></pre>
+}</code></pre>
