@@ -1,11 +1,17 @@
-<p>A web-responsive wedding website</p>
+# A web-responsive wedding website 
+
 <p>A very good method to keep your guests informed during the most spcial day of your life - the big wedding. A simple webpage offering your guest information like: locations, program, gifts, a question &amp; answers section and finnaly the contacts infos.</p>
+
 <p>This website was made in CodeBerry Programming  school during practice with help of the HTML and CSS programming languages, if you want to see a live version acces this page: <a href="https://negrut112.github.io/wedding-website/">https://negrut112.github.io/wedding-website/</a> .<br>
-<a href="https://i.imgur.com/ILXmTcU.png">https://i.imgur.com/ILXmTcU.png</a></p>
-<p>HTML</p>
+    
+<img src="https://i.imgur.com/ILXmTcU.png">
+
+## HTML
+
 <p>First step was to establish the framework: header, footer and different sections.</p>
 <p>I will give an example of a location section where it will take part:ceremony, photos and party.</p>
-<p>&lt;section class=“locations”&gt;<br>
+
+<pre><code>&lt;section class=“locations”&gt;<br>
 &lt;h2&gt;Locations&lt;/h2&gt;<br>
 &lt;div class=“info”&gt;<br>
 &lt;h3&gt;Ceremony&lt;/h3&gt;<br>
@@ -13,7 +19,7 @@
 &lt;div&gt;St. Nicholas Church&lt;/div&gt;<br>
 &lt;div&gt;2 Trinity Square, Bucharest&lt;/div&gt;<br>
 &lt;/div&gt;</p>
-<pre><code>  &lt;div class=&quot;info&quot;&gt;
+&lt;div class=&quot;info&quot;&gt;
     &lt;h3&gt;Photos&lt;/h3&gt;
     &lt;img src=&quot;https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-photoshoot.png&quot; alt=&quot;Photoshoot&quot;&gt;
     &lt;div&gt;Liberty Bastion&lt;/div&gt;
@@ -28,8 +34,11 @@
   &lt;/div&gt;
 &lt;/section&gt;
 </code></pre>
-<p>CSS</p>
+
+## CSS
+
 <p>Next step was to add some style for almost each element from html, but starting first with a Meyer reset that will remove default styling.I did this adding <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css</a>&quot;&gt;this external link to HTML head tags.</p>
+
 <p>Examples of styling:</p>
 <p>body {<br>
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png</a>') repeat center;<br>
