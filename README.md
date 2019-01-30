@@ -2,7 +2,9 @@
 
 <p>A very good method to keep your guests informed during the most spcial day of your life - the big wedding. A simple webpage offering your guest information like: locations, program, gifts, a question &amp; answers section and finnaly the contacts infos.</p>
 
-<p>This website was made in CodeBerry Programming  school during practice with help of the HTML and CSS programming languages, if you want to see a live version acces this page: <a href="https://negrut112.github.io/wedding-website/">https://negrut112.github.io/wedding-website/</a>.<br>
+<p>This website was made in CodeBerry Programming  school during practice with help of the HTML and CSS programming languages, if you want to see a live version acces this page: <a href="https://negrut112.github.io/wedding-website/">https://negrut112.github.io/wedding-website/</a>.</p>
+    
+<br>
     
 <img src="https://i.imgur.com/ILXmTcU.png">
 
