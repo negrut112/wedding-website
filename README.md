@@ -85,7 +85,7 @@ display: inline-block;
 width: 30%;
 padding: 1.5rem;
 margin: .5rem;
-<p>}</p>
+<p>}
 <p>.info::after {
 display: none;
 }</code></pre>
