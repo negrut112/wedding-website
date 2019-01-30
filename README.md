@@ -86,6 +86,6 @@ width: 30%;
 padding: 1.5rem;
 margin: .5rem;
 <p>}
-<p>.info::after {
+.info::after {
 display: none;
 }</code></pre>
