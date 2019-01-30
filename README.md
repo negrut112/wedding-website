@@ -38,7 +38,7 @@
 
 ## CSS
 
-<p>Next step was to add some style for almost each element from html, but starting first with a Meyer reset that will remove default styling.I did this adding <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css</a>&quot;&gt;this external link to HTML head tags.</p>
+<p>Next step was to add some style for almost each element from html, but starting first with a Meyer reset that will remove default styling.I did this adding <a href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">this</a> external link to HTML head tags.</p>
 
 <p>Examples of styling:</p>
 
@@ -68,7 +68,7 @@ font-size: .875rem;<br>
 
 <p>Media queries styling:</p>
 
-<p>@media (min-width: 768px) {</p>
+<pre><code>@media (min-width: 768px) {</p>
 <p>.cover {<br>
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg</a>') no-repeat center/cover;<br>
 }</p>
@@ -110,4 +110,4 @@ text-align: left;<br>
 <p>footer {<br>
 min-height: 7vh;<br>
 }</p>
-<p>}</p>
+<p>}</code></pre>
