@@ -69,23 +69,23 @@ font-size: .875rem;<br>
 <p>Media queries styling:</p>
 
 <pre><code>@media (min-width: 768px) {</p>
-<p>.cover {<br>
+<p>.cover {
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg</a>') no-repeat center/cover;<br>
 }</p>
-<p>.text {<br>
-padding: 1.25rem;<br>
-border-radius: 4px;<br>
-width: 50%;<br>
+<p>.text {
+padding: 1.25rem;
+border-radius: 4px;
+width: 50%;
 }</p>
-<p>.text h1 {<br>
-font-size: 7rem;<br>
+<p>.text h1 {
+font-size: 7rem;<
 }</p>
-<pre><code>.info {
+.info {
 display: inline-block;
 width: 30%;
 padding: 1.5rem;
 margin: .5rem;
 <p>}</p>
-<p>.info::after {<br>
-display: none;<br>
+<p>.info::after {
+display: none;
 }</code></pre>
