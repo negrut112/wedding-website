@@ -68,7 +68,8 @@ font-size: .875rem;<br>
 
 <p>Media queries styling:</p>
 
-<pre><code>@media (min-width: 768px) {
+<pre><code>
+@media (min-width: 768px) {
 .cover {
 background: url(’<a href="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg">https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg</a>') no-repeat center/cover;
 }
@@ -77,7 +78,7 @@ padding: 1.25rem;
 border-radius: 4px;
 width: 50%;
 }
-<p>.text h1 {
+text h1 {
 font-size: 7rem;
 }
 .info {
